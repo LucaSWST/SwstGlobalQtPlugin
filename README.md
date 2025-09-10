@@ -1,0 +1,2 @@
+# SwstGlobalQtPlugin
+QField Plugin 
